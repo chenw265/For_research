@@ -1,0 +1,38 @@
+MPG	Chemotherapy		Cisplatin
+A2M	Chemotherapy		Cisplatin
+TF	Chemotherapy		Cisplatin
+ATOX1	Chemotherapy		Cisplatin
+TUBB	Chemotherapy		Paclitaxel
+BCL2	Chemotherapy		Paclitaxel
+MAP4	Chemotherapy		Paclitaxel
+MAP2	Chemotherapy		Paclitaxel
+RRM1	Chemotherapy		Gemcitabine
+TYMS	Chemotherapy		Gemcitabine
+CMPK1	Chemotherapy		Gemcitabine
+TUBB	Chemotherapy		Vinorelbine
+TOP2A	Chemotherapy		Etoposide
+TOP2B	Chemotherapy		Etoposide
+IL6R	Immunotherapy		Attilizumab
+PDCD1	Immunotherapy		Tislelizumab
+PDCD1	Immunotherapy		Pembrolizumab
+PDCD1	Immunotherapy		Nivolumab
+PDCD1	Immunotherapy		Sintilimab
+CD274	Immunotherapy		Durvalumab
+MMP2	Antiangiogenic therapy		Endostatin
+MMP9	Antiangiogenic therapy		Endostatin
+MMP13	Antiangiogenic therapy		Endostatin
+PTK2	Antiangiogenic therapy		Endostatin
+SELE	Antiangiogenic therapy		Endostatin
+VEGFA	Antiangiogenic therapy		bevacizumab
+C1QA	Antiangiogenic therapy		bevacizumab
+C1QB	Antiangiogenic therapy		bevacizumab
+C1QC	Antiangiogenic therapy		bevacizumab
+FCGR3A	Antiangiogenic therapy		bevacizumab
+FCGR1A	Antiangiogenic therapy		bevacizumab
+FCGR2A	Antiangiogenic therapy		bevacizumab
+FCGR2B	Antiangiogenic therapy		bevacizumab
+FCGR2C	Antiangiogenic therapy		bevacizumab
+KDR	Antiangiogenic therapy		Anlotinib
+PDGFRB	Antiangiogenic therapy		Anlotinib
+FGFR3	Antiangiogenic therapy		Anlotinib
+KIT	Antiangiogenic therapy		Anlotinib
